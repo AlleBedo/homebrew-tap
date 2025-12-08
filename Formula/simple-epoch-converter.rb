@@ -11,7 +11,7 @@ class SimpleEpochConverter < Formula
   depends_on :macos => :ventura
 
   def install
-    prefix.install "SimpleEpochConverter.app" => "SimpleEpochConverter.app"
+    prefix.install Dir["*.app"].first || "SimpleEpochConverter.app"
   end
 
   def caveats
