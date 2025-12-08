@@ -5,7 +5,7 @@ class SimpleEpochConverter < Formula
   desc "Simple and fast macOS menu bar application to convert epoch timestamps"
   homepage "https://github.com/AlleBedo/SimpleEpochConverter"
   url "https://github.com/AlleBedo/SimpleEpochConverter/releases/download/v1.0.0/SimpleEpochConverter-1.0.0.zip"
-  sha256 "bddab5931f8ea013dc890d06c618eff86d1ac36b9e92449356ad7fddb01fdf96"
+  sha256 "b0f80386d37854751521dc6e0dc7aa70faf8d0b54c501396fd5378d5a62afd24"
   version "1.0.0"
 
   depends_on :macos => :ventura
