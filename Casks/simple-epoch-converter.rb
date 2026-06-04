@@ -1,6 +1,6 @@
 cask "simple-epoch-converter" do
-  version "1.1.0"
-  sha256 "11941968ceed80a2f70a127d732208142efb524b236b65fb2187688583b06aff"
+  version "1.1.1"
+  sha256 "07ea69e8e332177b96f61110eee319adf94d428ddbf88b4df970462527c08639"
 
   url "https://github.com/AlleBedo/SimpleEpochConverter/releases/download/v#{version}/SimpleEpochConverter-#{version}.zip"
   name "Simple Epoch Converter"
